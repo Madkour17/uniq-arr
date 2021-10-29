@@ -1,5 +1,5 @@
 {
-  "name": "uniq-arr",
+  "name": "unq-arr",
   "version": "1.0.0",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -11,7 +11,6 @@
     "jest": "^27.3.1",
     "prettier": "^2.4.1",
     "ts-jest": "^27.0.7",
-    "tslib": "^2.3.1",
     "tslint": "^6.1.3",
     "tslint-config-prettier": "^1.18.0",
     "typescript": "^4.4.4"
@@ -29,16 +28,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Madkour17/uniq-arr.git"
+    "url": "git+https://github.com/Madkour17/unq-arr.git"
   },
   "keywords": [
+    "unq-arr",
+    "unique-arr",
     "unique",
     "unique array",
     "array",
     "remove duplicate",
     "unique list",
-    "uniq-arr",
+    "unique-elements",
     "uniq",
+    "unq",
     "arr"
   ],
   "author": "Madkour17",
